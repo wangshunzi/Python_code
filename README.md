@@ -27,7 +27,8 @@ Python视频教程配套源码；
         +QQ群：635040761
         
         
-        <img src="https://github.com/wangshunzi/Python_code/blob/master/WeChat.jpg" width="300" />
-        
-        <img src="https://github.com/wangshunzi/Python_code/blob/master/QQ_GROUP.jpg" width="300" />
+        <div style="width:610px">
+           <img src="https://github.com/wangshunzi/Python_code/blob/master/WeChat.jpg" width="300" />
+           <img src="https://github.com/wangshunzi/Python_code/blob/master/QQ_GROUP.jpg" width="300" />
+        </div>
         
