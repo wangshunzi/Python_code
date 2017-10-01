@@ -29,9 +29,9 @@ Python视频教程配套源码；
         
         <div style="width:610px">
            <span>
-               <img src="https://github.com/wangshunzi/Python_code/blob/master/WeChat.jpg" width="300"  height="200" />
+               <img src="https://github.com/wangshunzi/Python_code/blob/master/WeChat.jpg" width="300"/>
                <div style="height:100px"></div>
            <sapn>
-           <img src="https://github.com/wangshunzi/Python_code/blob/master/QQ_GROUP.jpg" width="300" height="300"/>
+           <img src="https://github.com/wangshunzi/Python_code/blob/master/QQ_GROUP.jpg" width="300" />
         </div>
         
