@@ -26,4 +26,4 @@ Python视频教程配套源码；
         关注微信公众号：“百川一页”
         +QQ群：635040761
         
-        <img src="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3287716620&token=1978356844&action=download&style=1&pixsize=336">
+        <img src="https://github.com/wangshunzi/Python_code/blob/master/qrcode_for_gh_a9cc24024bdd_430.jpg">
