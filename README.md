@@ -1,2 +1,29 @@
 # Python_code
-Python视频教程配套源码； 教程地址 可“网易云课堂”， 搜索 "Python-学前阶段"、“Python-基础阶段”
+Python视频教程配套源码；
+ 
+# 在线观看地址：
+            ## 网易云课堂：
+    ​    ​    ​    http://study.163.com/course/introduction/1004492011.htm
+    ​    ​    ​    或直接搜索 “Python-学前阶段”
+            
+    ​    ​  ## 网易云课堂：
+    ​    ​    ​    http://study.163.com/course/introduction/1004496007.htm
+    ​    ​    ​    或直接搜索 “Python-基础阶段”
+
+        高清视频下载地址：
+            百度云盘：
+                    链接: http://pan.baidu.com/s/1slNpuUT  密码: eb7t
+                    
+# 笔记地址：
+        简书：关注 “百川一页”
+
+ 
+# 代码地址：
+        github: https://github.com/wangshunzi/Python_code
+
+ 
+# 客服：
+        关注微信公众号：“百川一页”
+        +QQ群：635040761
+        
+        <img src="https://mp.weixin.qq.com/misc/getqrcode?fakeid=3287716620&token=1978356844&action=download&style=1&pixsize=336">
