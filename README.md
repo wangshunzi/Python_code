@@ -12,10 +12,9 @@ Python视频教程配套源码；
    或直接搜索 “Python-基础阶段”
 
 ### 高清视频下载地址：
-   百度云盘链接: http://pan.baidu.com/s/1slNpuUT  密码: eb7t
+   百度云盘链接: http://pan.baidu.com/s/1kVf2s31  密码: 关注公众号, 回复"密码"获取
      
-     
-     
+
 # 笔记地址：
         简书：关注 “百川一页”
 
