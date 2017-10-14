@@ -1,0 +1,14 @@
+files/avi
+	a.avi
+	e.avi
+
+files/jpg
+	b.jpg
+	c.jpg
+
+files/txt
+	d.txt
+	d_bat.txt
+	f.txt
+
+
