@@ -17,9 +17,6 @@ Python视频教程配套源码；
 
 # 笔记地址：
         简书：关注 “百川一页”
-        下载地址：
-        链接：http://pan.baidu.com/s/1i4BKZQH 密码：r6c7
-       （注：未经许可，不可用于任何商业用途）
  
 # 代码地址：
         github: https://github.com/wangshunzi/Python_code
