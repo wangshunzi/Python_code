@@ -5,11 +5,11 @@ Python视频教程配套源码；
 
 ### 网易云课堂：
    http://study.163.com/course/introduction/1004492011.htm
-   或直接搜索 “Python-学前阶段”
+   或直接搜索 “王顺子”
             
 ### 网易云课堂：
    http://study.163.com/course/introduction/1004496007.htm
-   或直接搜索 “Python-基础阶段”
+   或直接搜索 “王顺子”
 
 ### 高清视频下载地址：
    百度云盘链接: http://pan.baidu.com/s/1kVf2s31  密码: 关注公众号, 回复"密码"获取
