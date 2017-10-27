@@ -3,6 +3,10 @@ Python视频教程配套源码；
  
 # 在线观看地址：
 
+### 腾讯课堂：
+   https://ke.qq.com/course/list/%E7%8E%8B%E9%A1%BA%E5%AD%90#tuin=1de53ad7
+   或直接搜索“王顺子”
+
 ### 网易云课堂：
    http://study.163.com/course/introduction/1004492011.htm
    或直接搜索 “王顺子”
